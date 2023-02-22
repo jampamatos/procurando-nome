@@ -39,9 +39,9 @@
 # GAMEPLAY
 
 1. CONTROLES:
-	a) JUMP
-	b) ATTACK
-	c) CONTROLE LATERAL: A E D
+	- JUMP
+	- ATTACK
+	- CONTROLE LATERAL: A E D
 2. FASES COM INIMIGOS E OBSTÁCULOS
 3. MECÂNICA DE SPECIAL: bolhas de ar que ativam automaticamente o especial
 4. 
